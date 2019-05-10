@@ -5,6 +5,8 @@
 
 
 原始CT影像图：
+
+
 ![image](https://github.com/lihuaqiang0101/-U-Net-/blob/master/images/10020.png)
 真实的分割图：
 网络预测的分割图：
