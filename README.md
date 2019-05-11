@@ -23,8 +23,9 @@
 ![image](https://github.com/lihuaqiang0101/-U-Net-/blob/master/images/10020_predict_mask.png)
 
 
-训练数据下载地址：
 
+
+训练数据下载地址：
 
 链接：https://pan.baidu.com/s/1cdr4c1Ld-NUYOGvQFVNyCQ 
 提取码：33qj 
